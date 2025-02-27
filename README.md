@@ -42,11 +42,14 @@ Aug 2020 – Aug 2022
 
 This project aimed to develop a machine learning model to predict churn in a telecommunications company. Exploratory data analysis (EDA) was performed, data was preprocessed and several models were tested, including Random Forest, LightGBM and XGBoost. The oversampling technique (SMOTE) was applied to handle class imbalance. The final model selected was Random Forest, with an F1-score of 0.9081 and an ROC AUC of 0.9696, which will allow the company to anticipate cancellations and take measures to retain customers. 
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+![PROPORCIÓN DE CLIENTES CANCELADOS](/PROYECTO_FINAL.png)
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+### Data visualization 
+[Publication](https://proyect-b685.onrender.com)
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+This project will create a histogram and a scatter plot with the vehicles_us file.
 
-![Bike Study](/assets/img/bike_study.jpeg
+### Predictive Modeling and Data Protection in Insurance Benefits
+
+In this project, I analyzed customer data from an insurance company to solve different machine learning tasks. First, I used kNN to predict whether a customer would receive insurance benefits and compared its performance with a dummy model. Then, I applied linear regression to predict the amount of benefits and evaluated its performance with RMSE and R^2. Next, I implemented a data obfuscation method using matrix transformation to protect customers' personal information. Finally, I demonstrated analytically and in code that obfuscation does not affect the quality of linear regression.
+![analisis exploratorio](/analisis exloratorio.png)

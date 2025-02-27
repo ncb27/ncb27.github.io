@@ -50,6 +50,7 @@ This project aimed to develop a machine learning model to predict churn in a tel
 This project will create a histogram and a scatter plot with the vehicles_us file.
 
 ### Predictive Modeling and Data Protection in Insurance Benefits
+[Publication](https://github.com/ncb27/Modelado-Predictivo-y-Protecci-n-de-Datos-en-Prestaciones-de-Seguro.git)
 
 In this project, I analyzed customer data from an insurance company to solve different machine learning tasks. First, I used kNN to predict whether a customer would receive insurance benefits and compared its performance with a dummy model. Then, I applied linear regression to predict the amount of benefits and evaluated its performance with RMSE and R^2. Next, I implemented a data obfuscation method using matrix transformation to protect customers' personal information. Finally, I demonstrated analytically and in code that obfuscation does not affect the quality of linear regression.
 

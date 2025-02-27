@@ -56,6 +56,12 @@ In this project, I analyzed customer data from an insurance company to solve dif
 
 ![PROPORCIÓN DE CLIENTES CANCELADOS](/analisis.png)
 
+### Predictive model for taxis services.
+[Publication](https://github.com/ncb27/Predicci-n-pedidos-de-taxis.git)
+
+The objective of the project was to develop a Machine Learning model to predict the number of cab orders in the next hour, helping a Taxi company to optimize the availability of drivers during peak hours.
+
+![taxis](/preditaxis.png)
 
 
 

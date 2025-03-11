@@ -5,10 +5,10 @@
 ## About me
 I am a Data Scientist with a strong background in Robotics and Telecommunications Engineering, passionate about leveraging machine learning, artificial intelligence, and automation to solve complex problems. My expertise spans multiple industries, including finance, telecommunications, automotive, and retail, where I have built predictive models, optimized business decisions, and developed intelligent systems.
 
--🔹 Machine Learning & AI – Experience in classification, regression, and deep learning models, optimizing solutions for real-world applications.
--🔹 Big Data & Cloud Computing – Skilled in handling large-scale datasets, cloud-based ML deployments, and scalable architectures.
--🔹 Fraud Detection & Risk Modeling – Developed ML models for risk assessment and customer churn prediction in financial and telecom industries.
--🔹 Computer Vision & Automation – Experience in AI-driven automation, including image-based age verification and robotic process automation.
+- 🔹 Machine Learning & AI – Experience in classification, regression, and deep learning models, optimizing solutions for real-world applications.
+- 🔹 Big Data & Cloud Computing – Skilled in handling large-scale datasets, cloud-based ML deployments, and scalable architectures.
+- 🔹 Fraud Detection & Risk Modeling – Developed ML models for risk assessment and customer churn prediction in financial and telecom industries.
+- 🔹 Computer Vision & Automation – Experience in AI-driven automation, including image-based age verification and robotic process automation.
 
 I thrive at the intersection of technology and business, ensuring that data-driven solutions translate into measurable impact. Always eager to explore new challenges, drive innovation, and collaborate with like-minded professionals.
 

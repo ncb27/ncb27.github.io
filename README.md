@@ -77,5 +77,5 @@ The objective of the project was to develop a Machine Learning model to predict 
 ![taxis](/preditaxis.png)
 
 
-
+Driven by data, powered by innovation. Constantly seeking new challenges where I can apply AI, machine learning, and automation to create impactful solutions. Let's connect and shape the future of technology together!
 
